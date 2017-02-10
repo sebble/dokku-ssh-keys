@@ -1,4 +1,4 @@
 [plugin]
-description = "dokku core ssh-keys plugin"
+description = "dokku core ssh-keyz plugin"
 version = "0.8.0"
 [plugin.config]
